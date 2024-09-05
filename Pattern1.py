@@ -1,4 +1,4 @@
-#Python Pattern for printing Square
+#Python Pattern for printing star Square
 
 n=  int(input("Enter Number of Rows: "))
 for row in range(n):
